@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
             <main className="pl-4 border-l pb-4">{children}</main>
           </section>
 
-          <footer className="text-sm py-4 border-t text-gray-600 text-center">$copy; Copyright 2024</footer>
+          <footer className="text-sm py-4 border-t text-gray-600 text-center">&copy; Copyright 2024</footer>
         </div>
       </body>
     </html>
